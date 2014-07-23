@@ -1,0 +1,4 @@
+main: net.boboman13.terrariumscoreboard.TerrariumScoreboard
+version: 1.0.0
+name: TerrariumScoreboard
+depend: [WorldGuard, Vault]

@@ -1,0 +1,5 @@
+settings:
+  verbose: false
+arena:
+  world: 'world'
+  region: 'region_id'
